@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robogram/static/css/main.f430e9d0.chunk.css",
-    "main.js": "/robogram/static/js/main.f7c17b2d.chunk.js",
-    "main.js.map": "/robogram/static/js/main.f7c17b2d.chunk.js.map",
+    "main.css": "/robogram/static/css/main.1a64174d.chunk.css",
+    "main.js": "/robogram/static/js/main.7b671620.chunk.js",
+    "main.js.map": "/robogram/static/js/main.7b671620.chunk.js.map",
     "runtime-main.js": "/robogram/static/js/runtime-main.034d89fb.js",
     "runtime-main.js.map": "/robogram/static/js/runtime-main.034d89fb.js.map",
     "static/css/2.3c03f26f.chunk.css": "/robogram/static/css/2.3c03f26f.chunk.css",
     "static/js/2.d478f94c.chunk.js": "/robogram/static/js/2.d478f94c.chunk.js",
     "static/js/2.d478f94c.chunk.js.map": "/robogram/static/js/2.d478f94c.chunk.js.map",
     "index.html": "/robogram/index.html",
-    "precache-manifest.18465027d9015cdcc99f6e28b4e7361d.js": "/robogram/precache-manifest.18465027d9015cdcc99f6e28b4e7361d.js",
+    "precache-manifest.6ccfc10a142567e7cde637e68c99efbd.js": "/robogram/precache-manifest.6ccfc10a142567e7cde637e68c99efbd.js",
     "service-worker.js": "/robogram/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/robogram/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.f430e9d0.chunk.css.map": "/robogram/static/css/main.f430e9d0.chunk.css.map",
+    "static/css/main.1a64174d.chunk.css.map": "/robogram/static/css/main.1a64174d.chunk.css.map",
     "static/js/2.d478f94c.chunk.js.LICENSE.txt": "/robogram/static/js/2.d478f94c.chunk.js.LICENSE.txt",
     "static/media/style.css": "/robogram/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.034d89fb.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.d478f94c.chunk.js",
-    "static/css/main.f430e9d0.chunk.css",
-    "static/js/main.f7c17b2d.chunk.js"
+    "static/css/main.1a64174d.chunk.css",
+    "static/js/main.7b671620.chunk.js"
   ]
 }

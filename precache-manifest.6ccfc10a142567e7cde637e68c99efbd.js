@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08f1cdc2eb6747c0c0b2c72dda7fc85e",
+    "revision": "4a6ca92780d837c3807c7dcb0b9ff9b4",
     "url": "/robogram/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robogram/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "50932b63e02b0c33c139",
-    "url": "/robogram/static/css/main.f430e9d0.chunk.css"
+    "revision": "03f72ce95c92317e4ce7",
+    "url": "/robogram/static/css/main.1a64174d.chunk.css"
   },
   {
     "revision": "540f5a253b3e2d0ac388",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robogram/static/js/2.d478f94c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50932b63e02b0c33c139",
-    "url": "/robogram/static/js/main.f7c17b2d.chunk.js"
+    "revision": "03f72ce95c92317e4ce7",
+    "url": "/robogram/static/js/main.7b671620.chunk.js"
   },
   {
     "revision": "f392f89a46fc797cad14",
